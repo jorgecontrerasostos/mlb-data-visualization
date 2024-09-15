@@ -1,4 +1,4 @@
-# Simple MLB Pitches Data Visualizations Using Polars and Seaborn
+# MLB Pitches Data Visualizations Using Polars and Seaborn
 
 ## Overview
 
